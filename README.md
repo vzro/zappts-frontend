@@ -50,5 +50,5 @@
 <br />
 <a href="https://i.imgur.com/jmBcKhN.png"><img src="https://i.imgur.com/jmBcKhN.png" width="300" /></a>
 
-## Aditional info
+## Additional info
     You can also simply clone the repository from GitHub and run it with npm install && npm start
