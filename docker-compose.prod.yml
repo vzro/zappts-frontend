@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  frontend:
+    container_name: zappts-frontend
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - "1337:80"
